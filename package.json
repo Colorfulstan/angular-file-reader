@@ -1,0 +1,19 @@
+{
+  "name": "angular-file-reader",
+  "version": "1.0.0",
+  "description": "Simple angular 1.x service for FileReader api",
+  "main": "angular-file-reader.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twhitbeck/angular-file-reader.git"
+  },
+  "author": "twhitbeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twhitbeck/angular-file-reader/issues"
+  },
+  "homepage": "https://github.com/twhitbeck/angular-file-reader#readme",
+  "peerDependencies": {
+    "angular": "^1.4.8"
+  }
+}
